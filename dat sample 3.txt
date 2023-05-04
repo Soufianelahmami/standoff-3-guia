@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Standoff 3 is a popular mobile first-person shooter game developed by Axlebolt, a game development studio based in Russia. The game was released in 2018 and has since garnered a large following of players worldwide","photo":"https://iili.io/HShAVEB.jpg"},
+  {"title":"tips mod 2","desc":" In this article, we will discuss Standoff 3 and provide a comprehensive guide to help players improve their gameplay.","photo":"https://iili.io/HShAMBV.jpg"},
+  {"title":"helper pack 3","desc":"Standoff 3 is a team-based first-person shooter game that features fast-paced action, various game modes, and customizable weapons. Players can choose to play as either terrorists or counter-terrorists in a 5 vs. 5 match.","photo":"https://iili.io/HShAWrP.jpg"},
+  {"title":"advance mod 4","desc":"The game features four different game modes: Deathmatch, Defuse the Bomb, Arms Race, and Capture the Flag.","photo":"https://iili.io/HShAELQ.jpg"},
+  {"title":"advice pack 5","desc":"Deathmatch is a classic mode where players try to eliminate as many opponents as possible to earn points. The team with the most points at the end of the match wins. Defuse the Bomb is a mode where one team is tasked with planting a bomb while the other team tries to prevent them from doing so. ","photo":"https://iili.io/HShAh21.jpg"},
+  {"title":"tips mod 6","desc":". Arms Race is a mode where players earn better weapons as they eliminate enemies, and the first player to reach the final weapon wins. Finally, Capture the Flag is a mode where teams try to capture each other's flags and bring them back to their own base.","photo":"https://iili.io/HShAh21.jpg"},
+  {"title":"helper pack 7","desc":"Players can customize their weapons by adding attachments such as scopes, suppressors, and extended magazines. They can also purchase skins to give their weapons a unique look. ","photo":"https://iili.io/HShANpa.jpg"},
+  {"title":"how to use this app 8","desc":"In addition to weapons, players can also customize their characters by selecting different outfits and helmets.","photo":"https://iili.io/HShAeTJ.jpg"}
    ]
  
 }
